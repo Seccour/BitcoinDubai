@@ -1,4 +1,4 @@
-# BitcoinDubai
+# Bitcoin Dubai: List of UAE Lightning Node
 
 A list of Lightning nodes owned by UAE Bitcoin users.
 
